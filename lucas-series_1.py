@@ -8,10 +8,7 @@ i = 0
 
 print (a, b)
 
-#print (t)
-
 while i < t:
-	#print ("in")
 	c = a+b
 	print (c)
 	a, b = b, c
